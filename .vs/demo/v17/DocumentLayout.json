@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jv\\XAMARIN\\demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0CF2CB-93F9-4B6F-8FBE-3B7472F680AF}|demo\\demo.csproj|d:\\jv\\xamarin\\demo\\demo\\views\\home.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7E0CF2CB-93F9-4B6F-8FBE-3B7472F680AF}|demo\\demo.csproj|solutionrelative:demo\\views\\home.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0CF2CB-93F9-4B6F-8FBE-3B7472F680AF}|demo\\demo.csproj|d:\\jv\\xamarin\\demo\\demo\\views\\home.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7E0CF2CB-93F9-4B6F-8FBE-3B7472F680AF}|demo\\demo.csproj|solutionrelative:demo\\views\\home.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0CF2CB-93F9-4B6F-8FBE-3B7472F680AF}|demo\\demo.csproj|d:\\jv\\xamarin\\demo\\demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0CF2CB-93F9-4B6F-8FBE-3B7472F680AF}|demo\\demo.csproj|solutionrelative:demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0CF2CB-93F9-4B6F-8FBE-3B7472F680AF}|demo\\demo.csproj|d:\\jv\\xamarin\\demo\\demo\\views\\home2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7E0CF2CB-93F9-4B6F-8FBE-3B7472F680AF}|demo\\demo.csproj|solutionrelative:demo\\views\\home2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\demo\\demo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\App.xaml.cs",
+              "ToolTip": "D:\\Jv\\XAMARIN\\demo\\demo\\App.xaml.cs",
+              "RelativeToolTip": "demo\\App.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:22:12.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home2.xaml",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\demo\\demo\\Views\\Home2.xaml",
+              "RelativeDocumentMoniker": "demo\\Views\\Home2.xaml",
+              "ToolTip": "D:\\Jv\\XAMARIN\\demo\\demo\\Views\\Home2.xaml",
+              "RelativeToolTip": "demo\\Views\\Home2.xaml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T15:21:32.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\demo\\demo\\Views\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\Views\\Home.xaml.cs",
+              "ToolTip": "D:\\Jv\\XAMARIN\\demo\\demo\\Views\\Home.xaml.cs",
+              "RelativeToolTip": "demo\\Views\\Home.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:32:52.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\Jv\\XAMARIN\\demo\\demo\\Views\\Home.xaml",
+              "RelativeDocumentMoniker": "demo\\Views\\Home.xaml",
+              "ToolTip": "D:\\Jv\\XAMARIN\\demo\\demo\\Views\\Home.xaml",
+              "RelativeToolTip": "demo\\Views\\Home.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T14:32:47.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

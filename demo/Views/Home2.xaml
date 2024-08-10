@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="demo.Views.Home2">
+    <Grid ColumnDefinitions="*,*" RowDefinitions="*,*">
+        <Button Grid.Column="1" Text="Opcion B" TextTransform="Uppercase"/><Button Text="Opcion A" TextTransform="Uppercase"/>
+        <Button Grid.Column="0" Text="Opcion A" TextTransform="Uppercase"/>
+        <Image Grid.Column="0" Grid.Row="1" Source="https://i.pinimg.com/1200x/50/07/ed/5007edd4af49dc476e6dc43b5863aac5.jpg"/>
+        <Image Grid.Column="1" Grid.Row="1" Source="https://i.pinimg.com/1200x/50/07/ed/5007edd4af49dc476e6dc43b5863aac5.jpg"/>
+    </Grid>
+</ContentPage>

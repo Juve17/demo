@@ -1,0 +1,16 @@
+D:\Jv\XAMARIN\demo\demo\bin\Debug\netstandard2.0\demo.deps.json
+D:\Jv\XAMARIN\demo\demo\bin\Debug\netstandard2.0\demo.dll
+D:\Jv\XAMARIN\demo\demo\bin\Debug\netstandard2.0\ref\demo.dll
+D:\Jv\XAMARIN\demo\demo\bin\Debug\netstandard2.0\demo.pdb
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\demo.csproj.AssemblyReference.cache
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\demo.AssemblyInfoInputs.cache
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\demo.AssemblyInfo.cs
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\demo.csproj.CoreCompileInputs.cache
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\demo.dll
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\refint\demo.dll
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\demo.pdb
+D:\Jv\XAMARIN\demo\demo\obj\Debug\netstandard2.0\Views\Home2.xaml.g.cs

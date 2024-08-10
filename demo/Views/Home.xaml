@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="demo.Views.Home">
+
+    <StackLayout BackgroundColor="Black">
+        <Label Text="Bienvenido"
+               HorizontalOptions="Center"
+               TextColor="Blue"
+                FontAttributes="Bold"
+               />
+        <Frame CornerRadius="30">
+            <StackLayout>
+                <Image   Source="https://www.metafrase.com/blog/wp-content/uploads/sites/4/2023/09/hacker-fb-dp-photo-9-jpg.webp" />
+                <Label Text="Usuario"/>
+                <Entry Keyboard="Numeric" PlaceholderColor="#9811F0" Placeholder="Ingrese su Usuario Siiuu" />
+                <Button x:Name="btnMover" Clicked="btnMover_Clicked" Text="Guardar" CornerRadius="20" />
+
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+    
+    <!--<ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>-->
+</ContentPage>
